@@ -1,0 +1,22 @@
+#myFooter {
+    background-color: #3c3d41;
+    color: white;
+}
+
+#myFooter .footer-copyright {
+    background-color: #333333;
+}
+
+#myFooter .footer-copyright p {
+    color: #ccc;
+}
+
+#myFooter .btn {
+    color: white;
+    font-size: 17px;
+    background-color: #d84b6b;
+    border-radius: 20px;
+    width: 250px;
+    height: 45px;
+}
+
